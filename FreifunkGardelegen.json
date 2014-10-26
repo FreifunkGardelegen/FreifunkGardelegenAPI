@@ -1,0 +1,32 @@
+{
+  "name": "Gardelegen",
+  "url": "https://www.gardelegen-freifunk.de/wordpress",
+  "location": {
+    "city": "Gardelegen",
+    "country": "DE",
+    "lat": 52.526427,
+    "lon": 11.392521
+  },
+  "contact": {
+    "email": "kontakt@gardelegen-freifunk.de",
+    "facebook": "https://www.facebook.com/freifunk.gardelegen",
+    "twitter": "@FreifunkGA"
+  },
+  "state": {
+    "focus": [
+      "Public Free Wifi",
+      "Social Community Building",
+      "Free internet access"
+    ],
+    "lastchange": "2014-10-26T01:34:50.648Z"
+  },
+  "techDetails": {
+    "legals": [
+      "p2pblock",
+      "splashpage"
+    ],
+    "routing": [],
+    "updatemode": []
+  },
+  "api": "0.4.4"
+}
